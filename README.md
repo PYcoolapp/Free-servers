@@ -22,7 +22,7 @@ vmess://eyJhZGQiOiAiMTAwLjQyLjcwLjE0NSIsICJhaWQiOiAiNjQiLCAiZW5jcnlwdGlvbiI6ICJh
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogImNkbi5uYXJ1dG9zLnRvcCIsICJwb3J0IjogIjg4ODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjRiNWU0NTY1LTMyMmYtNDIyMy1hODkxLTc4YTg0ZjE4OTcyNiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvR2R0WVdsc0xtTnZiU0o5TENKamIzViIsICJob3N0IjogIm5ld3lvcmsueWoyMDIyLmdxIiwgInRscyI6ICIifQ==
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1MzU3XHU5NzVlXHU4YzZhXHU3NjdiXHU3NzAxXHU3ZWE2XHU3ZmYwXHU1MTg1XHU2NWFmXHU1ODIxIENsb3VkaW5ub3ZhdGlvblx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyIsICJhZGQiOiAiMTU2LjI0OS4xOC4zOCIsICJwb3J0IjogIjQ4MjIyIiwgImlkIjogIjQxODA0OGFmLWEyOTMtNGI5OS05YjBjLTk4Y2EzNTgwZGQyNCIsICJhaWQiOiAiNjQiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJ1cy5jYXNoZGF3aW9keGthd2phaW9jamRhd2Rhd2RhZHdyYXdnZnNlZ3NlZGVkd2FkYXdmZ3JkcmN2c3NzbC50b3AiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiJ9
 ```
-<h5>上方节点（部分）永久订阅地址：https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
+<h5>上方节点（部分）永久订阅地址：https://ghproxy.com/https://raw.githubusercontent.com/PYcoolapp/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
 <img src='https://ghproxy.com/https://raw.githubusercontent.com/PYcoolapp/Free-servers/main/sub.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowsharing.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载，Android用户建议直接使用<a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket for android</a>安卓小火箭，内置所有免费节点。</blockquote>
