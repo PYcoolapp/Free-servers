@@ -24,7 +24,7 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1MzU3XHU5NzVlXHU4YzZhXHU3NjdiXHU3NzAxXHU3ZWE2
 ```
 <h5>上方节点（部分）永久订阅地址：https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub</h5>
 <p>上方订阅地址二维码</p>
-<img src='https://ghproxy.com/https://raw.githubusercontent.com/Pawdroid/Free-servers/main/sub.png' width=250 height=250>
+<img src='https://ghproxy.com/https://raw.githubusercontent.com/PYcoolapp/Free-servers/main/sub.png' width=250 height=250>
 <blockquote style='text-align: center;'>更多节点、免费订阅地址及订阅转换请下载本站提供的共享节点app软件<a href='https://shadowsharing.com'>ShadowShare</a>导出节点使用，支持iOS、Android下载，Android用户建议直接使用<a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket for android</a>安卓小火箭，内置所有免费节点。</blockquote>
 <h4>建议国内iOS用户及早 <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>App Store下载</a> 留存，可能会在未来的某个时间下架</h4>
 
